@@ -1,0 +1,12 @@
+*.pyc
+*.DS_Store
+.vscode/settings.json
+flowai.egg-info/dependency_links.txt
+flowai.egg-info/PKG-INFO
+flowai.egg-info/requires.txt
+flowai.egg-info/SOURCES.txt
+flowai.egg-info/top_level.txt
+dist/flowai-0.1-py3-none-any.whl
+dist/flowai-0.1.tar.gz
+build/bdist.macosx-10.9-x86_64
+.pypirc
