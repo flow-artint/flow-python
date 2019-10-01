@@ -4,23 +4,16 @@ Get started by obtaining your API key from official [webpage](https://theflowai.
 
 ### Installation
 
-Clone this repository
+To install this package type the following `bash` command in your terminal.
 
 ```bash
-git clone https://github.com/flow-artint/flow_ai.git
-```
-
-Install this package from `flow_ai` directory
-
-```bash
-cd flow_ai
-pip install .
+pip install flowai
 ```
 Use `sudo` with `pip` above, if required.
 
 ### Usage
 
-Simple demo of how to use this package for face detection. 
+The following code have been adapted from [Flow documentation](https://docs.theflow_ai.com). Please see [documentation](https://docs.theflow_ai.com) for more detailed explanation step-by-step.
 
 ```python
 from flow_ai import FlowApp, Model
@@ -53,4 +46,4 @@ bounding_box: [315.84075927734375, 56.2187385559082, 370.674560546875, 128.31538
 confidence_score: 0.9999943971633911
 ```
 
-See [documentation](https://docs.theflow_ai.com) for detailed explanation.
+*NOTE*: Star or watch this repository to keep track of changes being made to this package.
