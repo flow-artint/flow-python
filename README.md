@@ -1,4 +1,4 @@
-# Flow Python Client API
+# Flow Python Client
 
 Get started by obtaining your API key from official [website](https://theflowai.com).
 
