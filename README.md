@@ -13,10 +13,10 @@ Use `sudo` with `pip` above, if required.
 
 ### Usage
 
-The following code have been adapted from [Flow documentation](https://docs.theflow_ai.com). Please see [documentation](https://docs.theflow_ai.com) for more detailed explanation step-by-step.
+The following code have been adapted from [documentation](https://docs.theflowai.com). Please see it for more detailed explanation step-by-step.
 
 ```python
-from flow_ai import FlowApp, Model
+from flowai import FlowApp, Model
 
 app = FlowApp(api_key="YOUR_API_KEY")
 
@@ -46,4 +46,4 @@ bounding_box: [315.84075927734375, 56.2187385559082, 370.674560546875, 128.31538
 confidence_score: 0.9999943971633911
 ```
 
-*NOTE*: Star or watch this repository to keep track of changes being made to this package.
+**NOTE**: Star or watch this repository to keep track of changes being made to this package.
