@@ -12,7 +12,7 @@ setup(
     long_description_content_type='text/markdown',
     long_description=README,
     url="https://github.com/flow-artint/flowai",
-    download_url="https://github.com/flow-artint/flowai/archive/0.0.1.tar.gz",
+    download_url="https://github.com/flow-artint/flow-python/archive/v0.0.2.tar.gz",
     packages=find_packages(),
     author="Rahul Bhalley",
     author_email="rahulbhalley@icloud.com",
