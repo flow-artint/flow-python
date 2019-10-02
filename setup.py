@@ -11,7 +11,7 @@ setup(
     description="Flow Python Client API",
     long_description_content_type='text/markdown',
     long_description=README,
-    url="https://github.com/flow-artint/flowai",
+    url="https://github.com/flow-artint/flow-python",
     download_url="https://github.com/flow-artint/flow-python/archive/v0.0.2.tar.gz",
     packages=find_packages(),
     author="Rahul Bhalley",
